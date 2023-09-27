@@ -1,0 +1,887 @@
+1695577523230	geckodriver	INFO	Listening on 127.0.0.1:52563
+1695577523260	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "42301" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCwVaPX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695577523736	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695577523836	Marionette	INFO	Listening on port 43265
+WebDriver BiDi listening on ws://127.0.0.1:42301
+Read port: 43265
+1695577523969	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:42301/devtools/browser/61da0687-6f24-4c3e-bdc8-55ec51b1d3b9
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript warning: https://www.google.com/xjs/_/js/k=xjs.s.bn.KIEN81N8gTg.O/am=CAAAAAAAAAAAAAAAAgCgBsIhgA0wQCAAAgAAEACAggIRBDAAQIBHmUgMAAABgBCYAOJgDwCghGoAAAAAAIT9AAAAAAAIC4AAAKAJYEAIWAQEAAAAQB4AgAcAGERYAAAAAAAAAAAAAAKeIBhckAAICIAAAAAAAAAAAAAAUtnkxQAC/d=1/ed=1/dg=2/rs=ACT90oH7-jfBZlorkpmLPVKbSP_M4v2acQ/ee=cEt90b:ws9Tlc;qddgKe:x4FYXe,d7YSfd;yxTchf:KUM7Z;dtl0hd:lLQWFe;eHDfl:ofjVkb;qaS3gd:yiLg6e;nAFL3:NTMZac,s39S4;oGtAuc:sOXFj;iFQyKf:vfuNJf,QIhFr;SNUn3:ZwDk9d,x8cHvb;io8t5d:sgY6Zb;Oj465e:KG2eXe,KG2eXe;Erl4fe:FloWmf,FloWmf;JsbNhc:Xd8iUd;sP4Vbe:VwDzFe;kMFpHd:OTA3Ae;uY49fb:COQbmf;Pjplud:PoEs9b,EEDORb;QGR0gd:Mlhmy;a56pNe:JEfCwb;Me32dd:MEeYgc;wR5FRb:TtcOte,O1Gjze;pXdRYb:JKoKVe;dIoSBb:ZgGg9b;EmZ2Bf:zr1jrb;NSEoX:lazG7b;eBAeSb:Ck63tb;WCEKNd:I46Hvd;wV5Pjc:L8KGxe;EVNhjf:pw70Gc;sTsDMc:kHVSUb;wQlYve:aLUfP;zOsCQe:Ko78Df;KcokUb:KiuZBf;YV5bee:IvPZ6d;kbAm9d:MkHyGd;ZWEUA:afR4Cf;g8nkx:U4MzKc;lzgfYb:PI40bd;w9w86d:dt4g2b;GleZL:J1A7Od;bcPXSc:gSZLJb;JXS8fb:Qj0suc;IoGlCf:b5lhvb;VN6jIc:ddQyuf;vfVwPd:lcrkwe;ESrPQc:mNTJvc;pNsl2d:j9Yuyc;VGRfx:VFqbr;BjwMce:cXX2Wb;R9Ulx:CR7Ufe;kY7VAf:d91TEb;xBbsrc:NEW1Qc;KpRAue:Tia57b;jY0zg:Q6tNgc;l8Azde:j4Ca9b;oSUNyd:fTfGO,fTfGO,pnvXVc;SMDL4c:fTfGO,pnvXVc;aZ61od:arTwJ;ZrFutb:W4Cdfc;K8vqCc:MyIcle;NPKaK:SdcwHb;LBgRLc:XVMNvd,SdcwHb;rQSrae:C6D5Fc;kCQyJ:ueyPK;KQzWid:mB4wNe;EABSZ:MXZt9d;qavrXe:zQzcXe,mYbt1d;TxfV6d:YORN0b;UDrY1c:eps46d;F9mqte:UoRcbe;Nyt6ic:jn2sGd;w3bZCb:ZPGaIb;G0KhTb:LIaoZ;XUezZ:sa7lqb;aAJE9c:WHW6Ef;V2HTTe:RolTY;Wfmdue:g3MJlb;imqimf:jKGL2e;BgS6mb:fidj5d;UVmjEd:EesRsb;z97YGf:oug9te;AfeaP:TkrAjf;eBZ5Nd:audvde;CxXAWb:YyRLvc;SLtqO:Kh1xYe;tosKvd:ZCqP3;VOcgDe:YquhTb;uuQkY:u2V3ud;WDGyFe:jcVOxd;trZL0b:qY8PFe;VxQ32b:k0XsBb;DULqB:RKfG5c;Np8Qkd:Dpx6qc;qZx2Fc:j0xrE;cFTWae:gT8qnd;gaub4:TN6bMe;DpcR3d:zL72xf;hjRo6e:F62sG;yGxLoc:FmAr0c;oUlnpc:RagDlc;R2kc8b:ALJqWb;pj82le:mg5CW;dLlj2:Qqt3Gf;qGV2uc:HHi04c;gtVSi:ekUOYd;UyG7Kb:wQd0G;LsNahb:ucGLNb;xbe2wc:wbTLEd;Q1Ow7b:x5CSu;bFZ6gf:RsDQqe;okUaUd:wItadb;G6wU6e:hezEbd;uknmt:GkPrzb;U96pRd:FsR04;PqHfGe:im2cZe;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;BMxAGc:E5bFse;R4IIIb:QWfeKf;whEZac:F4AmNb;tH4IIe:Ymry6;lkq0A:JyBE3e;daB6be:lMxGPd;LEikZe:byfTOb,lsjVmc/m=cdos,cr,hsm,jsa,mb4ZUb,d,csi,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl, line 413: Script terminated by timeout at:
+b@https://www.google.com/xjs/_/js/k=xjs.s.bn.KIEN81N8gTg.O/am=CAAAAAAAAAAAAAAAAgCgBsIhgA0wQCAAAgAAEACAggIRBDAAQIBHmUgMAAABgBCYAOJgDwCghGoAAAAAAIT9AAAAAAAIC4AAAKAJYEAIWAQEAAAAQB4AgAcAGERYAAAAAAAAAAAAAAKeIBhckAAICIAAAAAAAAAAAAAAUtnkxQAC/d=1/ed=1/dg=2/rs=ACT90oH7-jfBZlorkpmLPVKbSP_M4v2acQ/ee=cEt90b:ws9Tlc;qddgKe:x4FYXe,d7YSfd;yxTchf:KUM7Z;dtl0hd:lLQWFe;eHDfl:ofjVkb;qaS3gd:yiLg6e;nAFL3:NTMZac,s39S4;oGtAuc:sOXFj;iFQyKf:vfuNJf,QIhFr;SNUn3:ZwDk9d,x8cHvb;io8t5d:sgY6Zb;Oj465e:KG2eXe,KG2eXe;Erl4fe:FloWmf,FloWmf;JsbNhc:Xd8iUd;sP4Vbe:VwDzFe;kMFpHd:OTA3Ae;uY49fb:COQbmf;Pjplud:PoEs9b,EEDORb;QGR0gd:Mlhmy;a56pNe:JEfCwb;Me32dd:MEeYgc;wR5FRb:TtcOte,O1Gjze;pXdRYb:JKoKVe;dIoSBb:ZgGg9b;EmZ2Bf:zr1jrb;NSEoX:lazG7b;eBAeSb:Ck63tb;WCEKNd:I46Hvd;wV5Pjc:L8KGxe;EVNhjf:pw70Gc;sTsDMc:kHVSUb;wQlYve:aLUfP;zOsCQe:Ko78Df;KcokUb:KiuZBf;YV5bee:IvPZ6d;kbAm9d:MkHyGd;ZWEUA:afR4Cf;g8nkx:U4MzKc;lzgfYb:PI40bd;w9w86d:dt4g2b;GleZL:J1A7Od;bcPXSc:gSZLJb;JXS8fb:Qj0suc;IoGlCf:b5lhvb;VN6jIc:ddQyuf;vfVwPd:lcrkwe;ESrPQc:mNTJvc;pNsl2d:j9Yuyc;VGRfx:VFqbr;BjwMce:cXX2Wb;R9Ulx:CR7Ufe;kY7VAf:d91TEb;xBbsrc:NEW1Qc;KpRAue:Tia57b;jY0zg:Q6tNgc;l8Azde:j4Ca9b;oSUNyd:fTfGO,fTfGO,pnvXVc;SMDL4c:fTfGO,pnvXVc;aZ61od:arTwJ;ZrFutb:W4Cdfc;K8vqCc:MyIcle;NPKaK:SdcwHb;LBgRLc:XVMNvd,SdcwHb;rQSrae:C6D5Fc;kCQyJ:ueyPK;KQzWid:mB4wNe;EABSZ:MXZt9d;qavrXe:zQzcXe,mYbt1d;TxfV6d:YORN0b;UDrY1c:eps46d;F9mqte:UoRcbe;Nyt6ic:jn2sGd;w3bZCb:ZPGaIb;G0KhTb:LIaoZ;XUezZ:sa7lqb;aAJE9c:WHW6Ef;V2HTTe:RolTY;Wfmdue:g3MJlb;imqimf:jKGL2e;BgS6mb:fidj5d;UVmjEd:EesRsb;z97YGf:oug9te;AfeaP:TkrAjf;eBZ5Nd:audvde;CxXAWb:YyRLvc;SLtqO:Kh1xYe;tosKvd:ZCqP3;VOcgDe:YquhTb;uuQkY:u2V3ud;WDGyFe:jcVOxd;trZL0b:qY8PFe;VxQ32b:k0XsBb;DULqB:RKfG5c;Np8Qkd:Dpx6qc;qZx2Fc:j0xrE;cFTWae:gT8qnd;gaub4:TN6bMe;DpcR3d:zL72xf;hjRo6e:F62sG;yGxLoc:FmAr0c;oUlnpc:RagDlc;R2kc8b:ALJqWb;pj82le:mg5CW;dLlj2:Qqt3Gf;qGV2uc:HHi04c;gtVSi:ekUOYd;UyG7Kb:wQd0G;LsNahb:ucGLNb;xbe2wc:wbTLEd;Q1Ow7b:x5CSu;bFZ6gf:RsDQqe;okUaUd:wItadb;G6wU6e:hezEbd;uknmt:GkPrzb;U96pRd:FsR04;PqHfGe:im2cZe;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;BMxAGc:E5bFse;R4IIIb:QWfeKf;whEZac:F4AmNb;tH4IIe:Ymry6;lkq0A:JyBE3e;daB6be:lMxGPd;LEikZe:byfTOb,lsjVmc/m=cdos,cr,hsm,jsa,mb4ZUb,d,csi,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl:413:40
+
+1695577628183	Marionette	INFO	Stopped listening on port 43265
+1695577707581	geckodriver	INFO	Listening on 127.0.0.1:45495
+1695577707606	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "43513" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledBFw28"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695577707978	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695577708064	Marionette	INFO	Listening on port 44165
+WebDriver BiDi listening on ws://127.0.0.1:43513
+Read port: 44165
+1695577708181	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:43513/devtools/browser/2cffcc95-5f49-4a9d-94c8-8af48ecb3a7e
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript warning: https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js, line 2: Script terminated by timeout at:
+a@https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js:2:5449
+938085/J/</<@https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js:2:5928
+t@https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js:2:1269
+
+1695577757925	Marionette	INFO	Stopped listening on port 44165
+1695577760305	geckodriver	INFO	Listening on 127.0.0.1:42581
+1695577760330	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "56867" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile41AKxk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695577760706	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695577760793	Marionette	INFO	Listening on port 44581
+WebDriver BiDi listening on ws://127.0.0.1:56867
+Read port: 44581
+1695577760911	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56867/devtools/browser/ac15e0e2-57a6-4a00-afe6-01bae139cd01
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1695577839091	geckodriver	INFO	Listening on 127.0.0.1:56777
+1695577839116	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "47003" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5nuuy3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695577839484	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695577839570	Marionette	INFO	Listening on port 43023
+WebDriver BiDi listening on ws://127.0.0.1:47003
+Read port: 43023
+1695577839691	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:47003/devtools/browser/8adb533a-beb7-4d86-b111-7684511ff55b
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript warning: https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js, line 2: Script terminated by timeout at:
+a@https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js:2:5449
+938085/J/</<@https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js:2:5928
+t@https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js:2:1269
+
+1695577905452	Marionette	INFO	Stopped listening on port 43023
+JavaScript warning: https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js, line 2: Script terminated by timeout at:
+a@https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js:2:5449
+938085/J/</<@https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js:2:5928
+t@https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js:2:1269
+
+1695577925813	Marionette	INFO	Stopped listening on port 44581
+1695577927864	geckodriver	INFO	Listening on 127.0.0.1:59391
+1695577927889	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "41891" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7HThq1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695577928280	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695577928371	Marionette	INFO	Listening on port 36109
+WebDriver BiDi listening on ws://127.0.0.1:41891
+Read port: 36109
+1695577928497	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:41891/devtools/browser/24786bef-3b9e-4cc7-b39c-3e3aa5b1cb29
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/y2/l/en_GB/vk9ztfbh-nf.js?_nc_x=Ij3Wp8lg5Kz, line 24: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+[ERROR neqo_http3::connection] [Http3 connection] The new(81920) and the old value(131072) of setting MaxHeaderListSize do not match
+JavaScript warning: https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js, line 2: Script terminated by timeout at:
+a@https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js:2:5449
+938085/J/</<@https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js:2:5928
+t@https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js:2:1269
+
+1695578033161	Marionette	INFO	Stopped listening on port 36109
+1695578036971	geckodriver	INFO	Listening on 127.0.0.1:51453
+1695578036997	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "49961" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileyZun3t"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695578037387	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695578037478	Marionette	INFO	Listening on port 32973
+WebDriver BiDi listening on ws://127.0.0.1:49961
+Read port: 32973
+1695578037597	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:49961/devtools/browser/f37ca17e-08b3-42cd-8264-179754c642e7
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yj/l/en_GB/pN5X74nKzUM.js?_nc_x=Ij3Wp8lg5Kz, line 24: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+NetworkHelper.parseSecurityInfo threw an exception: Security state 0 has no known STATE_IS_* flags.
+console.error: "Security state 0 has no known STATE_IS_* flags."
+1695578114920	geckodriver	INFO	Listening on 127.0.0.1:55255
+1695578114945	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "40081" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileH9902W"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695578115315	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695578115405	Marionette	INFO	Listening on port 35595
+WebDriver BiDi listening on ws://127.0.0.1:40081
+Read port: 35595
+1695578115537	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:40081/devtools/browser/85a58451-9a8c-412c-9632-fb43e56089f1
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yj/l/en_GB/pN5X74nKzUM.js?_nc_x=Ij3Wp8lg5Kz, line 24: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yj/l/en_GB/pN5X74nKzUM.js?_nc_x=Ij3Wp8lg5Kz, line 24: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yj/l/en_GB/pN5X74nKzUM.js?_nc_x=Ij3Wp8lg5Kz, line 24: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js, line 2: Script terminated by timeout at:
+a@https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js:2:5449
+938085/J/</<@https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js:2:5928
+t@https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js:2:1269
+
+1695578462523	Marionette	INFO	Stopped listening on port 35595
+JavaScript warning: https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js, line 2: Script terminated by timeout at:
+a@https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js:2:5449
+938085/J/</<@https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js:2:5928
+t@https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js:2:1269
+
+1695578627730	Marionette	INFO	Stopped listening on port 32973
+1695578630606	geckodriver	INFO	Listening on 127.0.0.1:48977
+1695578630633	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "44875" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegk2C7g"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695578631017	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695578631105	Marionette	INFO	Listening on port 42231
+WebDriver BiDi listening on ws://127.0.0.1:44875
+Read port: 42231
+1695578631235	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:44875/devtools/browser/862d2b98-92c0-42f6-b5fb-bdde3df11a7e
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yj/l/en_GB/pN5X74nKzUM.js?_nc_x=Ij3Wp8lg5Kz, line 24: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-CDPT3R4PG7&l=dataLayer&cx=c, line 376: Script terminated by timeout at:
+hw.prototype.flush@https://www.googletagmanager.com/gtag/js?id=G-CDPT3R4PG7&l=dataLayer&cx=c:376:440
+wF/<@https://www.googletagmanager.com/gtag/js?id=G-CDPT3R4PG7&l=dataLayer&cx=c:509:117
+ba.zk/<@https://www.googletagmanager.com/gtag/js?id=G-CDPT3R4PG7&l=dataLayer&cx=c:461:126
+ba.zk/c/<@https://www.googletagmanager.com/gtag/js?id=G-CDPT3R4PG7&l=dataLayer&cx=c:460:420
+
+1695580142721	Marionette	INFO	Stopped listening on port 42231
+1695580718556	geckodriver	INFO	Listening on 127.0.0.1:48963
+1695580718581	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "36223" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevihOWX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695580718956	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695580719044	Marionette	INFO	Listening on port 34891
+WebDriver BiDi listening on ws://127.0.0.1:36223
+Read port: 34891
+1695580719177	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:36223/devtools/browser/8dd25064-6a4c-4ffa-917c-0877b7bf81b7
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yj/l/en_GB/pN5X74nKzUM.js?_nc_x=Ij3Wp8lg5Kz, line 24: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript warning: https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js, line 2: Script terminated by timeout at:
+a@https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js:2:5449
+938085/J/</<@https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js:2:5928
+t@https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js:2:1269
+
+1695581003507	Marionette	INFO	Stopped listening on port 34891
+1695581006980	geckodriver	INFO	Listening on 127.0.0.1:54465
+1695581007012	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "54849" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemEryY7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695581007401	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695581007489	Marionette	INFO	Listening on port 36553
+WebDriver BiDi listening on ws://127.0.0.1:54849
+Read port: 36553
+1695581007607	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:54849/devtools/browser/6b9b8650-4c7e-4eed-85b9-45a73f4ed89e
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yj/l/en_GB/pN5X74nKzUM.js?_nc_x=Ij3Wp8lg5Kz, line 24: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript warning: https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js, line 2: Script terminated by timeout at:
+a@https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js:2:5449
+938085/J/</<@https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js:2:5928
+t@https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js:2:1269
+
+1695581078938	Marionette	INFO	Stopped listening on port 36553
+1695581081823	geckodriver	INFO	Listening on 127.0.0.1:52681
+1695581081850	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "53351" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejy47va"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695581082247	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695581082342	Marionette	INFO	Listening on port 44453
+Read port: 44453
+WebDriver BiDi listening on ws://127.0.0.1:53351
+1695581082387	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:53351/devtools/browser/2548c48f-f661-4d42-a030-c911525a05ed
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yj/l/en_GB/pN5X74nKzUM.js?_nc_x=Ij3Wp8lg5Kz, line 24: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript warning: https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js, line 2: Script terminated by timeout at:
+a@https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js:2:5449
+938085/J/</<@https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js:2:5928
+t@https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js:2:1269
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1695581184454	Marionette	INFO	Stopped listening on port 44453
+1695581188456	geckodriver	INFO	Listening on 127.0.0.1:37543
+1695581188481	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "52437" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileoQih4C"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695581188847	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695581188934	Marionette	INFO	Listening on port 38651
+WebDriver BiDi listening on ws://127.0.0.1:52437
+Read port: 38651
+1695581189052	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:52437/devtools/browser/c745d070-4eff-4879-bfba-c7a8dbb8f5c2
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yj/l/en_GB/pN5X74nKzUM.js?_nc_x=Ij3Wp8lg5Kz, line 24: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript warning: https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js, line 2: Script terminated by timeout at:
+a@https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js:2:5449
+938085/J/</<@https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js:2:5928
+t@https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js:2:1269
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1695581287567	Marionette	INFO	Stopped listening on port 38651
+1695581290234	geckodriver	INFO	Listening on 127.0.0.1:60473
+1695581290259	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "47461" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileyUWSSE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695581290642	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695581290741	Marionette	INFO	Listening on port 44169
+WebDriver BiDi listening on ws://127.0.0.1:47461
+Read port: 44169
+1695581290854	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:47461/devtools/browser/812ce40b-3d9b-4d72-a92d-b95abd7432bb
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yj/l/en_GB/pN5X74nKzUM.js?_nc_x=Ij3Wp8lg5Kz, line 24: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript warning: https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js, line 2: Script terminated by timeout at:
+a@https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js:2:5449
+938085/J/</<@https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js:2:5928
+t@https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js:2:1269
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1695581412230	Marionette	INFO	Stopped listening on port 44169
+1695581415651	geckodriver	INFO	Listening on 127.0.0.1:40349
+1695581415676	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "38799" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileckbMuq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695581416048	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695581416138	Marionette	INFO	Listening on port 35739
+WebDriver BiDi listening on ws://127.0.0.1:38799
+Read port: 35739
+1695581416265	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:38799/devtools/browser/f5f4b5e2-ec69-4547-9908-012906ad29ba
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yj/l/en_GB/pN5X74nKzUM.js?_nc_x=Ij3Wp8lg5Kz, line 24: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript warning: https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js, line 2: Script terminated by timeout at:
+a@https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js:2:5449
+938085/J/</<@https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js:2:5928
+t@https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js:2:1269
+
+1695581493379	Marionette	INFO	Stopped listening on port 35739
+1695582400446	geckodriver	INFO	Listening on 127.0.0.1:44927
+1695582400472	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "48641" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAlBqTY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695582400851	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695582400940	Marionette	INFO	Listening on port 34605
+WebDriver BiDi listening on ws://127.0.0.1:48641
+Read port: 34605
+1695582401064	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:48641/devtools/browser/65957d2f-e007-4de6-a620-8f30263bd2a6
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yj/l/en_GB/pN5X74nKzUM.js?_nc_x=Ij3Wp8lg5Kz, line 24: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1695582535246	geckodriver	INFO	Listening on 127.0.0.1:59249
+1695582535272	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "55543" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileaaBGz6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695582535647	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695582535735	Marionette	INFO	Listening on port 36747
+WebDriver BiDi listening on ws://127.0.0.1:55543
+Read port: 36747
+1695582535855	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55543/devtools/browser/32e9267e-2972-4f7f-a901-2ec2ae0acc76
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yj/l/en_GB/pN5X74nKzUM.js?_nc_x=Ij3Wp8lg5Kz, line 24: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript warning: https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js, line 2: Script terminated by timeout at:
+a@https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js:2:5449
+938085/J/</<@https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js:2:5928
+t@https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js:2:1269
+
+1695582625330	Marionette	INFO	Stopped listening on port 36747
+JavaScript warning: https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js, line 2: Script terminated by timeout at:
+a@https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js:2:5449
+938085/J/</<@https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js:2:5928
+t@https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js:2:1269
+
+1695582628478	Marionette	INFO	Stopped listening on port 34605
+1695582636414	geckodriver	INFO	Listening on 127.0.0.1:33683
+1695582636439	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "47463" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRXx9wW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695582636823	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695582636911	Marionette	INFO	Listening on port 36643
+WebDriver BiDi listening on ws://127.0.0.1:47463
+Read port: 36643
+1695582637032	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:47463/devtools/browser/73775a1c-de81-4de2-bac7-48886e8140b9
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yj/l/en_GB/pN5X74nKzUM.js?_nc_x=Ij3Wp8lg5Kz, line 24: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1695582733801	geckodriver	INFO	Listening on 127.0.0.1:54397
+1695582733826	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "51061" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCwM5xN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695582734207	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695582734298	Marionette	INFO	Listening on port 39909
+WebDriver BiDi listening on ws://127.0.0.1:51061
+Read port: 39909
+1695582734415	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51061/devtools/browser/e17b48cd-febd-4e72-8cee-9780e67e80b4
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yj/l/en_GB/pN5X74nKzUM.js?_nc_x=Ij3Wp8lg5Kz, line 24: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1695582952770	geckodriver	INFO	Listening on 127.0.0.1:58755
+1695582952799	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "42409" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6GTjl9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695582953215	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695582953314	Marionette	INFO	Listening on port 42699
+WebDriver BiDi listening on ws://127.0.0.1:42409
+Read port: 42699
+1695582953462	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:42409/devtools/browser/de8d4df9-0e54-4401-81c3-80bf19e15ac2
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yj/l/en_GB/pN5X74nKzUM.js?_nc_x=Ij3Wp8lg5Kz, line 24: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1695583399643	geckodriver	INFO	Listening on 127.0.0.1:47103
+1695583399670	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "57967" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileE973am"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695583400094	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695583400187	Marionette	INFO	Listening on port 41929
+WebDriver BiDi listening on ws://127.0.0.1:57967
+Read port: 41929
+1695583400339	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:57967/devtools/browser/0136c1c8-6498-4842-87bd-cf1690fd696d
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yj/l/en_GB/pN5X74nKzUM.js?_nc_x=Ij3Wp8lg5Kz, line 24: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1695584880321	geckodriver	INFO	Listening on 127.0.0.1:37195
+1695584880347	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "44797" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKjlL8N"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695584880756	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695584880851	Marionette	INFO	Listening on port 39639
+WebDriver BiDi listening on ws://127.0.0.1:44797
+Read port: 39639
+1695584880981	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:44797/devtools/browser/c9345f39-fcf7-4b1a-919e-70fd4640673e
+[ERROR neqo_http3::connection] [Http3 connection] The new(81920) and the old value(131072) of setting MaxHeaderListSize do not match
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/y2/l/en_GB/vk9ztfbh-nf.js?_nc_x=Ij3Wp8lg5Kz, line 24: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript warning: https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js, line 2: Script terminated by timeout at:
+a@https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js:2:5449
+938085/J/</<@https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js:2:5928
+t@https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js:2:1269
+
+1695584947424	Marionette	INFO	Stopped listening on port 39639
+1695584949954	geckodriver	INFO	Listening on 127.0.0.1:41501
+1695584949981	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "36669" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileEL4XuJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695584950368	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695584950460	Marionette	INFO	Listening on port 38007
+WebDriver BiDi listening on ws://127.0.0.1:36669
+Read port: 38007
+1695584950583	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:36669/devtools/browser/ef4b303e-ccdb-42c5-9764-df226e105ea0
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yj/l/en_GB/pN5X74nKzUM.js?_nc_x=Ij3Wp8lg5Kz, line 24: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript warning: https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js, line 2: Script terminated by timeout at:
+a@https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js:2:5449
+938085/J/</<@https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js:2:5928
+t@https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js:2:1269
+
+1695584992632	Marionette	INFO	Stopped listening on port 38007
+1695819375815	geckodriver	INFO	Listening on 127.0.0.1:37475
+1695819376339	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "50615" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile4TcFsZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695819376893	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695819377004	Marionette	INFO	Listening on port 41521
+WebDriver BiDi listening on ws://127.0.0.1:50615
+Read port: 41521
+1695819377145	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:50615/devtools/browser/8fa6f039-efca-46ea-9adc-6923d5c7a34e
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yj/l/en_GB/pN5X74nKzUM.js?_nc_x=Ij3Wp8lg5Kz, line 24: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1695819926990	geckodriver	INFO	Listening on 127.0.0.1:40621
+1695819927015	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "54695" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile1HobuH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695819927381	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695819927469	Marionette	INFO	Listening on port 39983
+WebDriver BiDi listening on ws://127.0.0.1:54695
+Read port: 39983
+1695819927600	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:54695/devtools/browser/ede27c84-d407-44c8-aa6c-b06d71ebc4c8
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/y2/l/en_GB/vk9ztfbh-nf.js?_nc_x=Ij3Wp8lg5Kz, line 24: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1695820098462	geckodriver	INFO	Listening on 127.0.0.1:37177
+1695820098486	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "50019" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile86q3HB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695820098859	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695820098949	Marionette	INFO	Listening on port 46359
+WebDriver BiDi listening on ws://127.0.0.1:50019
+Read port: 46359
+1695820099072	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:50019/devtools/browser/d617b5a0-04f2-43e3-8a1a-5044675ddeca
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yj/l/en_GB/pN5X74nKzUM.js?_nc_x=Ij3Wp8lg5Kz, line 24: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1695820195487	geckodriver	INFO	Listening on 127.0.0.1:57271
+1695820195512	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "49255" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqhhG6u"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695820195887	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695820195978	Marionette	INFO	Listening on port 43317
+WebDriver BiDi listening on ws://127.0.0.1:49255
+Read port: 43317
+1695820196105	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:49255/devtools/browser/4f1663fd-72b8-464a-b868-4795dade04e3
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/y2/l/en_GB/vk9ztfbh-nf.js?_nc_x=Ij3Wp8lg5Kz, line 24: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1695820270454	geckodriver	INFO	Listening on 127.0.0.1:35465
+1695820270478	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "41969" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesJqZtI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695820270863	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695820270950	Marionette	INFO	Listening on port 39715
+WebDriver BiDi listening on ws://127.0.0.1:41969
+Read port: 39715
+1695820271064	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:41969/devtools/browser/655bd0ed-b7fa-4110-b456-bc75b2215628
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yj/l/en_GB/pN5X74nKzUM.js?_nc_x=Ij3Wp8lg5Kz, line 24: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1695820304011	Marionette	INFO	Stopped listening on port 39715
+1695820368470	geckodriver	INFO	Listening on 127.0.0.1:36533
+1695820368494	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "48707" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRfuDYJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695820368871	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695820368961	Marionette	INFO	Listening on port 37179
+WebDriver BiDi listening on ws://127.0.0.1:48707
+Read port: 37179
+1695820369081	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:48707/devtools/browser/55ab6e6a-f561-4fd3-842a-8306a712307a
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yj/l/en_GB/pN5X74nKzUM.js?_nc_x=Ij3Wp8lg5Kz, line 24: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1695820401904	Marionette	INFO	Stopped listening on port 37179
+1695820497582	geckodriver	INFO	Listening on 127.0.0.1:39591
+1695820497606	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "41405" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile3a3cR4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695820497971	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695820498057	Marionette	INFO	Listening on port 41053
+WebDriver BiDi listening on ws://127.0.0.1:41405
+Read port: 41053
+1695820498176	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:41405/devtools/browser/f5391c01-9aee-486c-a606-57a1446a208b
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yj/l/en_GB/pN5X74nKzUM.js?_nc_x=Ij3Wp8lg5Kz, line 24: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript warning: https://tinder.com/static/build/24127-64ba88edef2b332fe902.js, line 2: Script terminated by timeout at:
+697748/o.leaveBreadcrumb@https://tinder.com/static/build/24127-64ba88edef2b332fe902.js:2:23886
+697748/kn/load/t/e.exports@https://tinder.com/static/build/24127-64ba88edef2b332fe902.js:2:37279
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1695820756562	Marionette	INFO	Stopped listening on port 41053
+1695820759038	geckodriver	INFO	Listening on 127.0.0.1:58843
+1695820759062	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "57117" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTw15aE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695820759431	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695820759518	Marionette	INFO	Listening on port 34967
+WebDriver BiDi listening on ws://127.0.0.1:57117
+Read port: 34967
+1695820759641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:57117/devtools/browser/43925d1a-46cb-47f3-9cbc-4e63211b8053
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yj/l/en_GB/pN5X74nKzUM.js?_nc_x=Ij3Wp8lg5Kz, line 24: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1695820794041	Marionette	INFO	Stopped listening on port 34967
+1695820829033	geckodriver	INFO	Listening on 127.0.0.1:44071
+1695820829059	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "40517" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile2Yy4DX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695820829429	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695820829516	Marionette	INFO	Listening on port 34863
+WebDriver BiDi listening on ws://127.0.0.1:40517
+Read port: 34863
+1695820829643	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:40517/devtools/browser/9ce4fc27-2b06-4879-a191-05413203bce2
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yj/l/en_GB/pN5X74nKzUM.js?_nc_x=Ij3Wp8lg5Kz, line 24: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1695820863710	Marionette	INFO	Stopped listening on port 34863
+1695820937389	geckodriver	INFO	Listening on 127.0.0.1:55873
+1695820937414	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "39867" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepKOOnG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695820937778	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695820937864	Marionette	INFO	Listening on port 42559
+WebDriver BiDi listening on ws://127.0.0.1:39867
+Read port: 42559
+1695820937987	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:39867/devtools/browser/05cd33a2-231f-4778-877c-7e4de45cd239
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yj/l/en_GB/pN5X74nKzUM.js?_nc_x=Ij3Wp8lg5Kz, line 24: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript warning: https://tinder.com/static/build/24127-64ba88edef2b332fe902.js, line 2: Script terminated by timeout at:
+t@https://tinder.com/static/build/24127-64ba88edef2b332fe902.js:2:229
+a@https://tinder.com/static/build/24127-64ba88edef2b332fe902.js:2:386
+697748/o.leaveBreadcrumb@https://tinder.com/static/build/24127-64ba88edef2b332fe902.js:2:23945
+697748/kn/load/t/e.exports@https://tinder.com/static/build/24127-64ba88edef2b332fe902.js:2:37279
+
+1695820984601	Marionette	INFO	Stopped listening on port 42559
+1695821054061	geckodriver	INFO	Listening on 127.0.0.1:49155
+1695821054086	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "53357" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebojXji"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695821054455	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695821054548	Marionette	INFO	Listening on port 45991
+WebDriver BiDi listening on ws://127.0.0.1:53357
+Read port: 45991
+1695821054670	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:53357/devtools/browser/b5f4c679-ed72-4f92-9008-ea2e77bd605b
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yj/l/en_GB/pN5X74nKzUM.js?_nc_x=Ij3Wp8lg5Kz, line 24: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1695821148598	geckodriver	INFO	Listening on 127.0.0.1:33565
+1695821148622	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "59351" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile8aM5Dc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695821148992	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695821149081	Marionette	INFO	Listening on port 36755
+WebDriver BiDi listening on ws://127.0.0.1:59351
+Read port: 36755
+1695821149199	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:59351/devtools/browser/4bbb01c4-4258-49d3-b827-8a3ea9783b0f
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yj/l/en_GB/pN5X74nKzUM.js?_nc_x=Ij3Wp8lg5Kz, line 24: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript warning: https://tinder.com/static/build/24127-64ba88edef2b332fe902.js, line 2: Script terminated by timeout at:
+a@https://tinder.com/static/build/24127-64ba88edef2b332fe902.js:2:373
+697748/o.leaveBreadcrumb@https://tinder.com/static/build/24127-64ba88edef2b332fe902.js:2:23945
+697748/kn/load/t/e.exports@https://tinder.com/static/build/24127-64ba88edef2b332fe902.js:2:37279
+
+1695821180812	Marionette	INFO	Stopped listening on port 36755
+1695821184276	geckodriver	INFO	Listening on 127.0.0.1:45979
+1695821184301	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "60057" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilekIDwDD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695821184672	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695821184758	Marionette	INFO	Listening on port 36333
+WebDriver BiDi listening on ws://127.0.0.1:60057
+Read port: 36333
+1695821184875	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60057/devtools/browser/7ca925e8-0720-4dd7-8e5f-a9a15c2fee2d
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yj/l/en_GB/pN5X74nKzUM.js?_nc_x=Ij3Wp8lg5Kz, line 24: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1695821521676	Marionette	INFO	Stopped listening on port 45991
+JavaScript warning: https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js, line 2: Script terminated by timeout at:
+a@https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js:2:5449
+938085/J/</<@https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js:2:5928
+t@https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js:2:1269
+
+1695821522757	Marionette	INFO	Stopped listening on port 36333
+1695821549462	geckodriver	INFO	Listening on 127.0.0.1:38715
+1695821549486	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "37041" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileF2vgeO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695821549854	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695821549941	Marionette	INFO	Listening on port 35001
+WebDriver BiDi listening on ws://127.0.0.1:37041
+Read port: 35001
+1695821550063	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:37041/devtools/browser/e7fad91b-7174-44b5-b272-bc8e773e6470
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yj/l/en_GB/pN5X74nKzUM.js?_nc_x=Ij3Wp8lg5Kz, line 24: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js, line 2: Script terminated by timeout at:
+a@https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js:2:5449
+938085/J/</<@https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js:2:5928
+t@https://tinder.com/static/build/chunks/web-vitals-4bfb5d72f68850318c8a.js:2:1269
+
+1695821574582	Marionette	INFO	Stopped listening on port 35001
